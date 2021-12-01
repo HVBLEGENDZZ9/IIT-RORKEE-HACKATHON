@@ -5,6 +5,7 @@ REPO OF THE STOCK MARKET PREDICTION HACKATHON BY IIT RORKEE
 | BASE MODEL(ARIMA) | | |
 | LSTMs + TIs | | |
 | GRUs + TIs | | |
+| TRANSFORMERS + TIs | | |
 | LSTM + TIs +PCA | | |
 | TCNN + TIs | | | 
 
