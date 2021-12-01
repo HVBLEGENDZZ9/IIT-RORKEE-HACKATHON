@@ -2,8 +2,10 @@
 REPO OF THE STOCK MARKET PREDICTION HACKATHON BY IIT RORKEE
 | MODEL NAME | ACCURACY |  PROFITABILITY |
 | --- | --- | --- |
-| LSTM + TIs +PC | | |
-| TCNN + TIs| | |
+| BASE MODEL(ARIMA) | | |
 | LSTMs + TIs | | |
 | GRUs + TIs | | |
+| LSTM + TIs +PCA | | |
+| TCNN + TIs | | | 
+
 
