@@ -12,5 +12,6 @@ MODELS AND THEIR PERFORMANCES:
 | TRANSFORMERS + TIs | | |
 | LSTM + TIs +PCA | | |
 | TCNN + TIs | | | 
+| SCINET | | |
 
 
