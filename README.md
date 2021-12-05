@@ -10,6 +10,7 @@ MODELS AND THEIR PERFORMANCES:
 | BASE MODEL(ARIMA) | | |
 | LSTMs + TIs | | |
 | GRUs + TIs | | |
+| N-BEATS | | |
 | TRANSFORMERS + TIs | | |
 | LSTM + TIs +PCA | | |
 | TCNN + TIs | | | 
