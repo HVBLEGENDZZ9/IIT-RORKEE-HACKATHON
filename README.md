@@ -6,15 +6,10 @@ REPO OF THE STOCK MARKET PREDICTION HACKATHON BY IIT RORKEE \
 * [FACEBOOK KATS LIBRARY](https://github.com/facebookresearch/Kats)
 
 MODELS AND THEIR PERFORMANCES: 
-| MODEL NAME | ACCURACY |  PROFITABILITY |
-| --- | --- | --- |
-| BASE MODEL(ARIMA) | | |
-| LSTMs + TIs | | |
-| GRUs + TIs | | |
-| N-BEATS | | |
-| TRANSFORMERS + TIs | | |
-| LSTM + TIs +PCA | | |
-| TCNN + TIs | | | 
-| SCINET | | |
+| MODEL NAME | ACCURACY | 
+| --- | --- | 
+| LSTMs + TIs | 0.5209 | 
+| GRUs + TIs | 0.5200 | 
+| TCNN + TIs | | 0.543 |
 
 
