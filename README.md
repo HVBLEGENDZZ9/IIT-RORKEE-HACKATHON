@@ -10,6 +10,6 @@ MODELS AND THEIR PERFORMANCES:
 | --- | --- | 
 | LSTMs + TIs | 0.5209 | 
 | GRUs + TIs | 0.5200 | 
-| TCNN + TIs | | 0.543 |
+| TCNN + TIs | 0.543 |
 
 
